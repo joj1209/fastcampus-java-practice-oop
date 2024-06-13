@@ -1,2 +1,2 @@
-# fastcampus-java-practice-oop
+# java-practice-oop
 OOP 예제
